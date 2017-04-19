@@ -1,0 +1,1 @@
+bx ic run --name blog -P --env-file prod.env --volume wordpress:/var/www registry.ng.bluemix.net/presumetusalsa/wordpress
